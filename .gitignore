@@ -1,0 +1,9 @@
+*.swp
+*.crt
+*.key
+__pycache__/
+.pyc
+*.jpeg
+*.jpg
+*.png
+venv/
